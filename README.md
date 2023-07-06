@@ -13,11 +13,9 @@ The Employee Insights Dashboard offers the following features:
 4. Drill-Down Capabilities: The dashboard offers drill-down capabilities, allowing users to dive deeper into specific data points. For example, by clicking on a particular department or gender segment, users can access more detailed information and explore related visualizations.
 
 ### Screenshots
-![s1](https://github.com/rakshit-ayachit/PowerBI_Dashboards/assets/129822642/7312d315-a8ed-4ca9-85d4-934fa8a00484)
-
-![s2](https://github.com/rakshit-ayachit/PowerBI_Dashboards/assets/129822642/82d167d7-9afb-4a07-b865-e0b252ecd789)
-
-![s3](https://github.com/rakshit-ayachit/PowerBI_Dashboards/assets/129822642/f5880183-a7bd-4b3c-aa7b-947541f2c905)
+![Employee_Insights_ss1](https://github.com/rakshit-ayachit/PowerBI_Dashboards/assets/129822642/070e5b0e-bc0d-498b-bdab-54fe229a08e4)
+![Employee_Insights_ss2](https://github.com/rakshit-ayachit/PowerBI_Dashboards/assets/129822642/cf8d5134-766f-419e-8746-e1f6965d28ce)
+![Employee_Insights_ss3](https://github.com/rakshit-ayachit/PowerBI_Dashboards/assets/129822642/9bb29a56-1979-4b85-9e2e-d9754ea18e5a)
 
 ### Usage
 To use the Employee Insights Dashboard, follow these steps:
@@ -39,5 +37,5 @@ Contributions to the Employee Insights Dashboard project are welcome. If you wou
 5. Submit a pull request, explaining the purpose and changes of your contribution.
 
 ### Contact
-For any questions, suggestions, or inquiries, please feel free to contact the project team at rakshit.ayachit@gmail.com. We appreciate your feedback and contributions to improve the dashboard.
+For any questions, suggestions, or inquiries, please feel free to contact me at rakshit.ayachit@gmail.com. We appreciate your feedback and contributions to improve the dashboard.
 
